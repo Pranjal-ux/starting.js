@@ -22,6 +22,7 @@ let score = null;//object
  console.log(true);//true
  console.log(+true);//1
 
+
  let num1,num2,num3;
  num1=num2=num3 = 2 + 2;
   let a = 100;
@@ -111,8 +112,6 @@ const othernumber = 4.9999;
   console.log(Math.floor(4.1));
   console.log(Math.max(4,3,6,1));
 
-console.log(Math.random());
-console.log((Math.random()*10) + 1);
 
 
   
